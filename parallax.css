@@ -10,7 +10,7 @@ body {
   height: 100vh;
 
   background-image: url("img/img1.jpg");
-  /* filter: grayscale(100%); */
+  /* flter: grayscale(100%); */
   background-repeat: no-repeat;
   background-size: cover;
 
